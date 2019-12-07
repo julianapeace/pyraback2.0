@@ -4477,13 +4477,7 @@ span.buy-button{
 	padding: 10px 15px;
     background-color: #90c744;
 }
-.header .navigation > ul > li.ihunch-link > a, .footer-top li.ihunch-link a {
-	text-transform: none;
-}
 
-.side-navigation > ul > li.ihunch-link > a {
-	text-transform: none;
-}
 
 .responsive-container {
 	position: relative;
