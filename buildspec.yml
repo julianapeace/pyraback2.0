@@ -2,4 +2,4 @@ version: 0.1
 phases:
     install:
         commands:
-        - aws s3 sync --profile personal s3://pyraback --delete
+        - aws s3 sync . s3://pyraback --delete
